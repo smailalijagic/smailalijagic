@@ -10,7 +10,7 @@ I am currently an informations systems student at the University of Zurich doing
 
 ## 🎯 Interests
 
-- Programming in C, Java and Python. Programming hardware (Verilog) and in Assembly raised my interest, however I have very little experience. [I did this course and the assignment in Spring 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=schedule).
+- Programming in C, Java and Python. Programming hardware (Verilog) and in Assembly raised my interest, however I have very little experience. [I did this course and the assignments in Spring 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=schedule).
 - Embedded systems (currently playing with espressif esp32)
 - Desktop applications (JavaFX)
 - some other stuff...
