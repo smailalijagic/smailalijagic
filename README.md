@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there 👋
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailalijagic&layout=compact&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailalijagic&show_icons=true&theme=default)
+
+## 🎯 Interests
+
+- Programming in C, Java and Python
+- Embedded systems (currently playing with espressif esp32)
+- Desktop applications (JavaFX)
+- some other stuff...
+
 
 <!--
 **smailalijagic/smailalijagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
