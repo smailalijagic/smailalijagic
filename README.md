@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am currently an informations systems student at the University of Zurich doing my final semester of my Bachelor studies. In Fall 2025 I will start my Master in computer science or cyber security at ETH Zurich. I would be very interested to do a PhD in one of the following areas: Computer Engineering, Cryptography, Communication or Hardware Security.
+I am currently an informations systems student at the University of Zurich doing my final semester of my Bachelor studies. In Fall 2025 I will start my Master in cyber security at ETH Zurich. I would be very interested to do a PhD in one of the following areas: Computer Engineering, Cryptography, Communication or Hardware Security.
 
 ## 📊 GitHub Stats
 
