@@ -15,6 +15,11 @@ I am currently an informations systems student at the University of Zurich doing
 - Desktop applications (JavaFX)
 - some other stuff...
 
+## 🎓 Education
+- Bachelor of Science in informatics (major information systems)
+- Master of Science in informatics (major secure and reliable systems) starting in 2025
+- PhD? Who knows! It would be nice though.
+
 ## Some Project Ideas
 Feel free to do them on your own.
 
