@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am currently a Computer Science master student at ETH Zurich. I would be very interested to do a PhD in one of the following areas: Computer Engineering, Cryptography, Communication or Hardware Security.
+I'm a Computer Science master student at ETH Zurich. I would be very interested to do a PhD in one of the following areas: Computer Engineering, Cryptography, Communication or Hardware Security.
 
 ## 📊 GitHub Stats
 
@@ -10,14 +10,14 @@ I am currently a Computer Science master student at ETH Zurich. I would be very 
 
 ## 🎯 Interests
 
-- Programming in C, Java and Python. Programming hardware (Verilog) and in Assembly raised my interest, however I have very little experience. [I did this course and the assignments in Spring 2025](https://safari.ethz.ch/ddca/spring2025/doku.php?id=schedule).
+- Programming in C, Java and Python. Programming hardware (Verilog) and in Assembly raised my interest, however I have very little experience.
 - Embedded systems (currently playing with espressif esp32)
 - Desktop applications (JavaFX)
 - some other stuff...
 
 ## 🎓 Education
 - Bachelor of Science in informatics (major information systems)
-- Master of Science in informatics (major secure and reliable systems)
+- Master of Science in computer science (major secure and reliable systems)
 - PhD? Who knows! It would be nice though.
 
 
