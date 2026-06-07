@@ -1,10 +1,12 @@
 # Hi there 👋
 
+<!--
 I'm a Computer Science master student at ETH Zurich, looking for a PhD position in one of the following areas: Computer Engineering, Cryptography, Communication or Hardware Security.
 
 - Programming in C, Java and Python.
 - Embedded systems (currently playing with espressif esp32)
 - Desktop applications (JavaFX)
+-->
 
 <!--
 **smailalijagic/smailalijagic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
